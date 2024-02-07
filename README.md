@@ -1,5 +1,7 @@
 Słoń Trąbalski
-Nowa linia
+
+Nowa linia poprawiona
+
 Wojtek dopisz coś o słoniu!
 Koniecznie popraw bo to co napisałeś jest mało odkrywcze!
 
