@@ -7,3 +7,6 @@ Fajny słoń
 
 Instrukcja subset:
 subset(db, Forest == "Bsw"")
+
+Instrukcja droplevels
+droplevels(subset(db, Forest == "Bsw""))
